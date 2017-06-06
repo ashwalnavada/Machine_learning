@@ -1,1 +1,1 @@
-Trying out machine learning techniques on different datasets.
+Trying out machine learning techniques on different datasets
